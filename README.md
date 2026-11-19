@@ -10,7 +10,8 @@
   <a href="https://github.com/ishandutta2007/Awesome-Video-Effects-Generative-AI-Visuals/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Video-Effects-Generative-AI-Visuals?style=flat-square&color=blue" alt="Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Video-Effects-Generative-AI-Visuals/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Video-Effects-Generative-AI-Visuals?style=flat-square&color=red" alt="Open Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Video-Effects-Generative-AI-Visuals/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
-  <a href="https://github.com/sindresorhus/awesome"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 **A comprehensive, curated collection of commercial SaaS platforms, foundation video diffusion models, neural VFX pipelines, video-to-video restyling, automated AI rotoscoping, camera control, and programmatic visual effects engines.**
@@ -29,6 +30,8 @@
   - [⚡ Top Open-Source Repositories (Ranked by Stars)](#-top-open-source-repositories-ranked-by-stars)
 - [🔍 SEO Search Keywords & Topic Taxonomy](#-seo-search-keywords--topic-taxonomy)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
+- [⭐ Star History](#-star-history)
 - [⚖️ Disclaimer & License](#️-disclaimer--license)
 
 ---
@@ -125,6 +128,23 @@ Contributions, project additions, and corrections are warmly welcomed!
 3. Ensure entries adhere to table schemas (specific pricing, free-tier limits, valuation, valid GitHub URLs).
 4. Verify repository star count and maintain markdown formatting.
 5. **Commit** and submit a **Pull Request**.
+
+---
+
+## 💖 Support
+
+Thank you for exploring and supporting this curated resource! If you find this project valuable, please consider:
+- ⭐ **Starring** the repository to boost visibility.
+- 🍴 **Forking** it to keep a personal copy and contribute your own discoveries.
+- 📢 **Sharing** it with fellow AI filmmakers, VFX artists, and developers.
+- ☕ **Buying a coffee** to support ongoing maintenance and curation on the [Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+##  Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Video-Effects-Generative-AI-Visuals&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Video-Effects-Generative-AI-Visuals&type=date&legend=top-left)
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Video-Effects-Generative-AI-Visuals&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Video-Effects-Generative-AI-Visuals&type=date&legend=top-left)
 
 ---
 
