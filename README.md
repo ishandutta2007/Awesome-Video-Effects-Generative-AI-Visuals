@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Video-Effects-Generative-AI-Visuals/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Video-Effects-Generative-AI-Visuals?style=flat-square&color=yellow" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Video-Effects-Generative-AI-Visuals/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Video-Effects-Generative-AI-Visuals?style=flat-square&color=yellow" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Video-Effects-Generative-AI-Visuals/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Video-Effects-Generative-AI-Visuals?style=flat-square&color=blue" alt="Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Video-Effects-Generative-AI-Visuals/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Video-Effects-Generative-AI-Visuals?style=flat-square&color=red" alt="Open Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Video-Effects-Generative-AI-Visuals/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
@@ -74,7 +74,7 @@ Explore the most influential open-source software libraries, neural architecture
 
 Each repository badge directly links to its live GitHub Stargazers page.
 
-| Repository & Stargazers Badge | Stars Count | Primary Domain & Architecture | Description & Core VFX Capabilities |
+| Repository & Stargazers Badge | Stars_Count | Primary Domain & Architecture | Description & Core VFX Capabilities |
 | :--- | :---: | :--- | :--- |
 | **[comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)** <br> [![ComfyUI Stars](https://img.shields.io/github/stars/comfyanonymous/ComfyUI?style=social&color=white)](https://github.com/comfyanonymous/ComfyUI/stargazers) | **147k+** ⭐ | Node-based Diffusion GUI / VFX Pipeline | The premier modular node-based visual engine powering multi-pass video-to-video, ControlNet depth/pose/canny pipelines, latent upscaling, and custom AI VFX workflows. |
 | **[remotion-dev/remotion](https://github.com/remotion-dev/remotion)** <br> [![Remotion Stars](https://img.shields.io/github/stars/remotion-dev/remotion?style=social&color=white)](https://github.com/remotion-dev/remotion/stargazers) | **74k+** ⭐ | Programmatic Video & WebGL VFX | Flagship developer framework for crafting programmatic motion graphics, algorithmic visual effects, dynamic text overlays, and multi-track video rendered via React and CSS/Canvas. |
@@ -126,7 +126,7 @@ Contributions, project additions, and corrections are warmly welcomed!
 1. **Fork** the repository.
 2. Create your feature branch: `git checkout -b feature/add-new-vfx-tool`.
 3. Ensure entries adhere to table schemas (specific pricing, free-tier limits, valuation, valid GitHub URLs).
-4. Verify repository star count and maintain markdown formatting.
+4. Verify repository Stars_Count and maintain markdown formatting.
 5. **Commit** and submit a **Pull Request**.
 
 ---
